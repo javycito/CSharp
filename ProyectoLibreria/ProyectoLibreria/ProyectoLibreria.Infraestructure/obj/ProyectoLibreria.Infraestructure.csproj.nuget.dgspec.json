@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\The Javi Productions\\Documents\\GitHub\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\ProyectoLibreria.Infraestructure.csproj": {}
+    "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\ProyectoLibreria.Infraestructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\The Javi Productions\\Documents\\GitHub\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\ProyectoLibreria.Infraestructure.csproj": {
+    "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\ProyectoLibreria.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\The Javi Productions\\Documents\\GitHub\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\ProyectoLibreria.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\ProyectoLibreria.Infraestructure.csproj",
         "projectName": "ProyectoLibreria.Infraestructure",
-        "projectPath": "C:\\Users\\The Javi Productions\\Documents\\GitHub\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\ProyectoLibreria.Infraestructure.csproj",
+        "projectPath": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\ProyectoLibreria.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\The Javi Productions\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\The Javi Productions\\Documents\\GitHub\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\The Javi Productions\\AppData\\Roaming\\NuGet\\NuGet.Config",

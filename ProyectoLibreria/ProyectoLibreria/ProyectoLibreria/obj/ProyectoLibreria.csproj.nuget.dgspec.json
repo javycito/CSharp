@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\The Javi Productions\\Documents\\GitHub\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.csproj": {}
+    "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\The Javi Productions\\Documents\\GitHub\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.csproj": {
+    "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\The Javi Productions\\Documents\\GitHub\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.csproj",
+        "projectUniqueName": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.csproj",
         "projectName": "ProyectoLibreria",
-        "projectPath": "C:\\Users\\The Javi Productions\\Documents\\GitHub\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.csproj",
+        "projectPath": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.csproj",
         "packagesPath": "C:\\Users\\The Javi Productions\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\The Javi Productions\\Documents\\GitHub\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria\\obj\\",
+        "outputPath": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\The Javi Productions\\AppData\\Roaming\\NuGet\\NuGet.Config",

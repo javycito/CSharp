@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\The Javi Productions\\Documents\\GitHub\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj",
+      "projectUniqueName": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj",
       "projectName": "ProyectoLibreria.Application",
-      "projectPath": "C:\\Users\\The Javi Productions\\Documents\\GitHub\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj",
+      "projectPath": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj",
       "packagesPath": "C:\\Users\\The Javi Productions\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\The Javi Productions\\Documents\\GitHub\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\obj\\",
+      "outputPath": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\The Javi Productions\\AppData\\Roaming\\NuGet\\NuGet.Config",
