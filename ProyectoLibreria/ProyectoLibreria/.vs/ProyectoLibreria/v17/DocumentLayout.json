@@ -3,6 +3,146 @@
   "WorkspaceRootPath": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\contract\\autoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\contract\\autoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED71858-2372-4239-800F-1A161E850881}|ProyectoLibreria.Domain\\ProyectoLibreria.Domain.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.domain\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED71858-2372-4239-800F-1A161E850881}|ProyectoLibreria.Domain\\ProyectoLibreria.Domain.csproj|solutionrelative:proyectolibreria.domain\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\service\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\service\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\service\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\service\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\service\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\service\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\service\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\service\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\pedido\\updatepedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\pedido\\updatepedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\pedido\\createpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\pedido\\createpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\pedido\\basepedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\pedido\\basepedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\libro\\updatelibrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\libro\\updatelibrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\libro\\createlibrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\libro\\createlibrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\libro\\baselibrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\libro\\baselibrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\cliente\\updateclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\cliente\\updateclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\cliente\\createclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\cliente\\createclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\cliente\\baseclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\cliente\\baseclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\categoria\\updatecategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\categoria\\updatecategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\categoria\\createcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\categoria\\createcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\categoria\\basecategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\categoria\\basecategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\autor\\updateautordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\autor\\updateautordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\autor\\createautordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\autor\\createautordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\autor\\baseautordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\autor\\baseautordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\core\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\core\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\core\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\core\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\core\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\core\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\contract\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\contract\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\contract\\ilibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\contract\\ilibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\contract\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\contract\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\contract\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\contract\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D0A3D-FDF6-47CD-AA6C-10C2A9490970}|ProyectoFinalLibrary.Api\\ProyectoFinalLibrary.Api.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectofinallibrary.api\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D0A3D-FDF6-47CD-AA6C-10C2A9490970}|ProyectoFinalLibrary.Api\\ProyectoFinalLibrary.Api.csproj|solutionrelative:proyectofinallibrary.api\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D0A3D-FDF6-47CD-AA6C-10C2A9490970}|ProyectoFinalLibrary.Api\\ProyectoFinalLibrary.Api.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectofinallibrary.api\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D0A3D-FDF6-47CD-AA6C-10C2A9490970}|ProyectoFinalLibrary.Api\\ProyectoFinalLibrary.Api.csproj|solutionrelative:proyectofinallibrary.api\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D0A3D-FDF6-47CD-AA6C-10C2A9490970}|ProyectoFinalLibrary.Api\\ProyectoFinalLibrary.Api.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectofinallibrary.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D0A3D-FDF6-47CD-AA6C-10C2A9490970}|ProyectoFinalLibrary.Api\\ProyectoFinalLibrary.Api.csproj|solutionrelative:proyectofinallibrary.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D0A3D-FDF6-47CD-AA6C-10C2A9490970}|ProyectoFinalLibrary.Api\\ProyectoFinalLibrary.Api.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectofinallibrary.api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D0A3D-FDF6-47CD-AA6C-10C2A9490970}|ProyectoFinalLibrary.Api\\ProyectoFinalLibrary.Api.csproj|solutionrelative:proyectofinallibrary.api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D0A3D-FDF6-47CD-AA6C-10C2A9490970}|ProyectoFinalLibrary.Api\\ProyectoFinalLibrary.Api.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectofinallibrary.api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D0A3D-FDF6-47CD-AA6C-10C2A9490970}|ProyectoFinalLibrary.Api\\ProyectoFinalLibrary.Api.csproj|solutionrelative:proyectofinallibrary.api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76D56051-A365-4371-AEC7-DACAF316D2C2}|ProyectoLibreria.Infraestructure\\ProyectoLibreria.Infraestructure.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.infraestructure\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76D56051-A365-4371-AEC7-DACAF316D2C2}|ProyectoLibreria.Infraestructure\\ProyectoLibreria.Infraestructure.csproj|solutionrelative:proyectolibreria.infraestructure\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -93,10 +233,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A943A9AA-6C27-4E2D-AA0B-68861854862C}|ProyectoLibreria.Ioc\\ProyectoLibreria.Ioc.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.ioc\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A943A9AA-6C27-4E2D-AA0B-68861854862C}|ProyectoLibreria.Ioc\\ProyectoLibreria.Ioc.csproj|solutionrelative:proyectolibreria.ioc\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|c:\\users\\the javi productions\\desktop\\csharp\\proyectolibreria\\proyectolibreria\\proyectolibreria.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA23FC9C-0B59-48D6-8022-1C349CE3C5D0}|ProyectoLibreria.Application\\ProyectoLibreria.Application.csproj|solutionrelative:proyectolibreria.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,11 +242,466 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Domain\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Domain\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Domain\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "ProyectoLibreria.Domain\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:43:28.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Service\\PedidoService.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Service\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Service\\PedidoService.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Service\\PedidoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:42:29.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibroService.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Service\\LibroService.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Service\\LibroService.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Service\\LibroService.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Service\\LibroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:42:23.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AutoService.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Contract\\AutoService.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Contract\\AutoService.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Contract\\AutoService.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Contract\\AutoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:35:27.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Service\\ClienteService.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Service\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Service\\ClienteService.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Service\\ClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:42:13.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Service\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Service\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Service\\CategoriaService.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Service\\CategoriaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:41:59.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Service\\AutorService.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Service\\AutorService.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Service\\AutorService.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Service\\AutorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:41:50.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdatePedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Pedido\\UpdatePedidoDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\Pedido\\UpdatePedidoDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Pedido\\UpdatePedidoDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\Pedido\\UpdatePedidoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:41:40.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreatePedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Pedido\\CreatePedidoDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\Pedido\\CreatePedidoDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Pedido\\CreatePedidoDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\Pedido\\CreatePedidoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:41:34.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasePedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Pedido\\BasePedidoDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\Pedido\\BasePedidoDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Pedido\\BasePedidoDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\Pedido\\BasePedidoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:41:28.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateLibroDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Libro\\UpdateLibroDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\Libro\\UpdateLibroDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Libro\\UpdateLibroDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\Libro\\UpdateLibroDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:41:19.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateLibroDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Libro\\CreateLibroDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\Libro\\CreateLibroDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Libro\\CreateLibroDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\Libro\\CreateLibroDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:41:11.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseLibroDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Libro\\BaseLibroDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\Libro\\BaseLibroDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Libro\\BaseLibroDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\Libro\\BaseLibroDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:41:03.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Cliente\\UpdateClienteDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\Cliente\\UpdateClienteDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Cliente\\UpdateClienteDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\Cliente\\UpdateClienteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:39:55.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Cliente\\CreateClienteDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\Cliente\\CreateClienteDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Cliente\\CreateClienteDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\Cliente\\CreateClienteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:39:47.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Cliente\\BaseClienteDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\Cliente\\BaseClienteDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Cliente\\BaseClienteDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\Cliente\\BaseClienteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:39:33.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateCategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Categoria\\UpdateCategoriaDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\Categoria\\UpdateCategoriaDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Categoria\\UpdateCategoriaDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\Categoria\\UpdateCategoriaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:39:23.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateCategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Categoria\\CreateCategoriaDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\Categoria\\CreateCategoriaDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Categoria\\CreateCategoriaDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\Categoria\\CreateCategoriaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:39:16.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseCategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Categoria\\BaseCategoriaDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\Categoria\\BaseCategoriaDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Categoria\\BaseCategoriaDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\Categoria\\BaseCategoriaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:39:07.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateAutorDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Autor\\UpdateAutorDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\Autor\\UpdateAutorDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Autor\\UpdateAutorDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\Autor\\UpdateAutorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:38:56.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateAutorDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Autor\\CreateAutorDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\Autor\\CreateAutorDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Autor\\CreateAutorDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\Autor\\CreateAutorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:38:48.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseAutorDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Autor\\BaseAutorDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\Autor\\BaseAutorDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\Autor\\BaseAutorDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\Autor\\BaseAutorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:38:37.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\BaseDto.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Dtos\\BaseDto.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Dtos\\BaseDto.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Dtos\\BaseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:37:15.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Core\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Core\\ServiceResult.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Core\\ServiceResult.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Core\\ServiceResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:36:37.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Core\\IBaseService.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Core\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Core\\IBaseService.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Core\\IBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:36:29.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Core\\BaseService.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Core\\BaseService.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Core\\BaseService.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Core\\BaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:36:21.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IPedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Contract\\IPedidoService.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Contract\\IPedidoService.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Contract\\IPedidoService.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Contract\\IPedidoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:36:11.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ILibroService.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Contract\\ILibroService.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Contract\\ILibroService.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Contract\\ILibroService.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Contract\\ILibroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:36:00.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Contract\\IClienteService.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Contract\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Contract\\IClienteService.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Contract\\IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:35:52.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Contract\\ICategoriaService.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Contract\\ICategoriaService.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Contract\\ICategoriaService.cs",
+              "RelativeToolTip": "ProyectoLibreria.Application\\Contract\\ICategoriaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:35:40.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoFinalLibrary.Api\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalLibrary.Api\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoFinalLibrary.Api\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "ProyectoFinalLibrary.Api\\Controllers\\PedidoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:32:42.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoFinalLibrary.Api\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalLibrary.Api\\Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoFinalLibrary.Api\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "ProyectoFinalLibrary.Api\\Controllers\\LibroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:32:29.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoFinalLibrary.Api\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalLibrary.Api\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoFinalLibrary.Api\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "ProyectoFinalLibrary.Api\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:32:01.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoFinalLibrary.Api\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalLibrary.Api\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoFinalLibrary.Api\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "ProyectoFinalLibrary.Api\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:31:48.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoFinalLibrary.Api\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalLibrary.Api\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoFinalLibrary.Api\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "ProyectoFinalLibrary.Api\\Controllers\\AutorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:31:34.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "LibroRepository.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\Repositories\\LibroRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Infraestructure\\Repositories\\LibroRepository.cs",
@@ -123,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 36,
               "Title": "AutorRepository.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\Repositories\\AutorRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Infraestructure\\Repositories\\AutorRepository.cs",
@@ -131,12 +722,11 @@
               "RelativeToolTip": "ProyectoLibreria.Infraestructure\\Repositories\\AutorRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T02:47:00.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T02:47:00.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 37,
               "Title": "LibroModel.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\Models\\LibroModel.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Infraestructure\\Models\\LibroModel.cs",
@@ -144,12 +734,11 @@
               "RelativeToolTip": "ProyectoLibreria.Infraestructure\\Models\\LibroModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T02:46:42.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T02:46:42.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 38,
               "Title": "AutorModel.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\Models\\AutorModel.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Infraestructure\\Models\\AutorModel.cs",
@@ -157,12 +746,11 @@
               "RelativeToolTip": "ProyectoLibreria.Infraestructure\\Models\\AutorModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T02:46:33.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T02:46:33.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 39,
               "Title": "ILibroRepository.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\Interfaces\\ILibroRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Infraestructure\\Interfaces\\ILibroRepository.cs",
@@ -170,12 +758,11 @@
               "RelativeToolTip": "ProyectoLibreria.Infraestructure\\Interfaces\\ILibroRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T02:45:57.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T02:45:57.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 40,
               "Title": "IAutorRepository.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\Interfaces\\IAutorRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Infraestructure\\Interfaces\\IAutorRepository.cs",
@@ -183,12 +770,11 @@
               "RelativeToolTip": "ProyectoLibreria.Infraestructure\\Interfaces\\IAutorRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T02:45:46.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T02:45:46.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 41,
               "Title": "LibroException.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\Exceptions\\LibroException.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Infraestructure\\Exceptions\\LibroException.cs",
@@ -196,12 +782,11 @@
               "RelativeToolTip": "ProyectoLibreria.Infraestructure\\Exceptions\\LibroException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T02:45:11.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T02:45:11.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 42,
               "Title": "AutorException.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\Exceptions\\AutorException.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Infraestructure\\Exceptions\\AutorException.cs",
@@ -209,12 +794,11 @@
               "RelativeToolTip": "ProyectoLibreria.Infraestructure\\Exceptions\\AutorException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T02:45:01.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T02:45:01.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 43,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\Core\\BaseRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Infraestructure\\Core\\BaseRepository.cs",
@@ -222,12 +806,11 @@
               "RelativeToolTip": "ProyectoLibreria.Infraestructure\\Core\\BaseRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T02:44:05.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T02:44:05.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 44,
               "Title": "LibreriaContext.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Infraestructure\\Context\\LibreriaContext.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Infraestructure\\Context\\LibreriaContext.cs",
@@ -235,12 +818,11 @@
               "RelativeToolTip": "ProyectoLibreria.Infraestructure\\Context\\LibreriaContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T02:43:09.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T02:43:09.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 47,
               "Title": "IPedidoRepository.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Domain\\Repository\\IPedidoRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Domain\\Repository\\IPedidoRepository.cs",
@@ -252,7 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 48,
               "Title": "ILibroRepository.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Domain\\Repository\\ILibroRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Domain\\Repository\\ILibroRepository.cs",
@@ -264,7 +846,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 45,
               "Title": "IClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Domain\\Repository\\IClienteRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Domain\\Repository\\IClienteRepository.cs",
@@ -272,12 +854,11 @@
               "RelativeToolTip": "ProyectoLibreria.Domain\\Repository\\IClienteRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T02:29:05.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T02:29:05.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 46,
               "Title": "ICategor\u00EDaRepository.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Domain\\Repository\\ICategor\u00EDaRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Domain\\Repository\\ICategor\u00EDaRepository.cs",
@@ -289,7 +870,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 49,
               "Title": "IAutorRepository.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Domain\\Repository\\IAutorRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Domain\\Repository\\IAutorRepository.cs",
@@ -301,7 +882,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 53,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Domain\\Entities\\Pedido.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Domain\\Entities\\Pedido.cs",
@@ -313,7 +894,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 54,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Domain\\Entities\\Cliente.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Domain\\Entities\\Cliente.cs",
@@ -325,7 +906,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 55,
               "Title": "Categor\u00EDa.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Domain\\Entities\\Categor\u00EDa.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Domain\\Entities\\Categor\u00EDa.cs",
@@ -337,7 +918,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 56,
               "Title": "Autor.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Domain\\Entities\\Autor.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Domain\\Entities\\Autor.cs",
@@ -349,7 +930,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 50,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Domain\\Entities\\Libro.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Domain\\Entities\\Libro.cs",
@@ -361,7 +942,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 52,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Domain\\Core\\Person.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Domain\\Core\\Person.cs",
@@ -373,7 +954,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 51,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Domain\\Core\\BaseEntity.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Domain\\Core\\BaseEntity.cs",
@@ -385,7 +966,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 57,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Ioc\\Class1.cs",
               "RelativeDocumentMoniker": "ProyectoLibreria.Ioc\\Class1.cs",
@@ -394,18 +975,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T01:16:15.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "ProyectoLibreria.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\The Javi Productions\\Desktop\\CSharp\\ProyectoLibreria\\ProyectoLibreria\\ProyectoLibreria.Application\\Class1.cs",
-              "RelativeToolTip": "ProyectoLibreria.Application\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T01:13:07.437Z"
             }
           ]
         }
