@@ -1,0 +1,14 @@
+C:\Users\Santiago Aguero\Desktop\Edison\ProyectoFinal\ProyectoFinal.Domain\bin\Debug\net8.0\ProyectoLibrary.Domain.deps.json
+C:\Users\Santiago Aguero\Desktop\Edison\ProyectoFinal\ProyectoFinal.Domain\bin\Debug\net8.0\ProyectoLibrary.Domain.runtimeconfig.json
+C:\Users\Santiago Aguero\Desktop\Edison\ProyectoFinal\ProyectoFinal.Domain\bin\Debug\net8.0\ProyectoLibrary.Domain.dll
+C:\Users\Santiago Aguero\Desktop\Edison\ProyectoFinal\ProyectoFinal.Domain\bin\Debug\net8.0\ProyectoLibrary.Domain.pdb
+C:\Users\Santiago Aguero\Desktop\Edison\ProyectoFinal\ProyectoFinal.Domain\obj\Debug\net8.0\ProyectoLibrary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago Aguero\Desktop\Edison\ProyectoFinal\ProyectoFinal.Domain\obj\Debug\net8.0\ProyectoLibrary.Domain.AssemblyInfoInputs.cache
+C:\Users\Santiago Aguero\Desktop\Edison\ProyectoFinal\ProyectoFinal.Domain\obj\Debug\net8.0\ProyectoLibrary.Domain.AssemblyInfo.cs
+C:\Users\Santiago Aguero\Desktop\Edison\ProyectoFinal\ProyectoFinal.Domain\obj\Debug\net8.0\ProyectoLibrary.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Aguero\Desktop\Edison\ProyectoFinal\ProyectoFinal.Domain\obj\Debug\net8.0\ProyectoLibrary.Domain.sourcelink.json
+C:\Users\Santiago Aguero\Desktop\Edison\ProyectoFinal\ProyectoFinal.Domain\obj\Debug\net8.0\ProyectoLibrary.Domain.dll
+C:\Users\Santiago Aguero\Desktop\Edison\ProyectoFinal\ProyectoFinal.Domain\obj\Debug\net8.0\refint\ProyectoLibrary.Domain.dll
+C:\Users\Santiago Aguero\Desktop\Edison\ProyectoFinal\ProyectoFinal.Domain\obj\Debug\net8.0\ProyectoLibrary.Domain.pdb
+C:\Users\Santiago Aguero\Desktop\Edison\ProyectoFinal\ProyectoFinal.Domain\obj\Debug\net8.0\ProyectoLibrary.Domain.genruntimeconfig.cache
+C:\Users\Santiago Aguero\Desktop\Edison\ProyectoFinal\ProyectoFinal.Domain\obj\Debug\net8.0\ref\ProyectoLibrary.Domain.dll

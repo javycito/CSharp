@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santiago Aguero\\Desktop\\Edison\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4425C6E4-A423-4424-8365-064B610AA946}|ProyectoLibrary.Web\\ProyectoLibrary.Web.csproj|c:\\users\\santiago aguero\\desktop\\edison\\proyectofinal\\proyectolibrary.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4425C6E4-A423-4424-8365-064B610AA946}|ProyectoLibrary.Web\\ProyectoLibrary.Web.csproj|solutionrelative:proyectolibrary.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2447EB-9797-444F-90A3-F9FB09FE73F1}|ProyectoFinal.Api\\ProyectoLibrary.Api.csproj|c:\\users\\santiago aguero\\desktop\\edison\\proyectofinal\\proyectofinal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C2447EB-9797-444F-90A3-F9FB09FE73F1}|ProyectoFinal.Api\\ProyectoLibrary.Api.csproj|solutionrelative:proyectofinal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Santiago Aguero\\Desktop\\Edison\\ProyectoFinal\\ProyectoLibrary.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoLibrary.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Santiago Aguero\\Desktop\\Edison\\ProyectoFinal\\ProyectoLibrary.Web\\appsettings.json",
+              "RelativeToolTip": "ProyectoLibrary.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T01:56:12.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Santiago Aguero\\Desktop\\Edison\\ProyectoFinal\\ProyectoFinal.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoFinal.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Santiago Aguero\\Desktop\\Edison\\ProyectoFinal\\ProyectoFinal.Api\\appsettings.json",
+              "RelativeToolTip": "ProyectoFinal.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T01:56:00.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
